@@ -79,10 +79,12 @@ body {
     @media (max-width: 600px) {
       h1 {
         font-size: 1.8rem;
+         font-family: 'Comic Sans MS', cursive, sans-serif;
       }
 
       p {
         font-size: 1rem;
+         font-family: 'Comic Sans MS', cursive, sans-serif;
       }
 
       button {
