@@ -1,6 +1,6 @@
 function createFlower() {
   const flower = document.createElement("img");
-  flower.src = "../img/flower.png";
+  flower.src = "https://cdn-icons-png.flaticon.com/512/616/616408.png";
   flower.classList.add("flower");
 
   // Asegura que nunca se salga del ancho visible
