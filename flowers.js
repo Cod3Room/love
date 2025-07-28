@@ -1,6 +1,6 @@
 function createFlower() {
   const flower = document.createElement("img");
-  flower.src = "../flower.png";
+  flower.src = "./flower.png";
   flower.classList.add("flower");
 
   // Asegura que nunca se salga del ancho visible
